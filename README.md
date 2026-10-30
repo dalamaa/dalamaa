@@ -70,14 +70,13 @@ Developed a fault-tolerant desktop application for macOS that helps users collec
 
 > Some projects are proprietary, so their source repositories remain private. I share their purpose, capabilities, and engineering challenges without exposing confidential implementation details.
 
-## 🤝 Let's connect
-
-I'm open to remote software development roles, technical evaluation projects, and opportunities to build custom software for businesses.
 
 ## 🤝 Let's Connect
 
-I'm open to remote software development roles, AI evaluation projects, and custom software opportunities.
+I'm open to remote software development roles, AI evaluation projects, and opportunities to build custom applications for businesses.
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/michael-t-002447156/)
-- **Portfolio:** [LeadHoppers.xyz](https://leadhoppers.xyz)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lambe-michael/)
+- **GitHub:** [View my projects](https://github.com/dalamaa)
+
+
 
